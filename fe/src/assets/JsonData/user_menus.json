@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "bx bx-user",
+        "content": "Profile",
+        "path": ""
+    },
+    {
+        "icon": "bx bx-wallet-alt",
+        "content": "My Wallet",
+        "path": ""
+    },
+    {
+        "icon": "bx bx-cog",
+        "content": "Settings",
+        "path": ""
+    }
+]

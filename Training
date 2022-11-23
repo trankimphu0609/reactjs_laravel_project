@@ -1,0 +1,35 @@
+1.	Khởi tạo project  laravel
+composer create-project laravel/laravel BE
+php artisan serve
+2.	Khởi tạo project Reactjs
+npx create-react-app fe
+cd fe
+npm start
+3.	sau khi clone Git ve may 
+git clone https://github.com/VuongNguyen2011/shoestore.git
+// FrontEnd
+cd fe
+npm install 
+npm install axios
+npm install react-date-picker
+npm install firebase
+// BackEnd
+cd BE
+composer install
+copy .env.example .env
+php artisan key:generate
+php artisan serve
+
+
+@reduxjs/toolkit
+react-dom
+react-redux
+
+
+4. Create Database + API 
+- php artisan make:model TenTable
+- php artisan make:migration create_table_products
+- php artisan make:controller API/_tenTableController
+- php artisan migrate
+
+Run web: "C:\Program Files \Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp

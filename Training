@@ -6,7 +6,7 @@ npx create-react-app fe
 cd fe
 npm start
 3.	sau khi clone Git ve may 
-git clone https://github.com/VuongNguyen2011/shoestore.git
+git clone https://github.com/trankimphu0609/ReactJS_Laravel.git
 // FrontEnd
 cd fe
 npm install 
